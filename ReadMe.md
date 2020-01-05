@@ -1,5 +1,5 @@
-### technologies
-Javax , Hibenate , design database 
+### Technologies
+Javax , Hibenate, design database 
 
 
 ### Development tricks 
